@@ -1,7 +1,7 @@
 <h2 align="center">Squid Game | Season 1 | Rotten Tomatoes 🍅</h2>
 
 <p align="center">Visualizando as críticas dos usuários do <a href="https://www.rottentomatoes.com/">Rotten Tomatoes</a> sobre a 1ª temporada de Squid Game, em uma nuvem de palavras.</p>&emsp;
-<p align="center">Web Scrapping • <a href="http://amueller.github.io/word_cloud/index.html">Word Cloud</a> • Data Visualization • <a href="https://www.nltk.org/">NLTK </a> • <a href="https://py-googletrans.readthedocs.io/en/latest/#language-detection">Googletrans</a></p>&emsp;
+<p align="center">Web Scraping • <a href="http://amueller.github.io/word_cloud/index.html">Word Cloud</a> • Data Visualization • <a href="https://www.nltk.org/">NLTK </a> • <a href="https://py-googletrans.readthedocs.io/en/latest/#language-detection">Googletrans</a></p>&emsp;
 
 
 ## Tecnologias e ferramentas utilizadas:
